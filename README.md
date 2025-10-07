@@ -12,7 +12,6 @@ The project uses separate training and testing datasets (data-train.xlsx and dat
 * Evaluate model accuracy and visualize performance metrics.
 
 # Project Files
-**File	Description**
 
  data-train.xlsx	 -> Training dataset
  data-test.xlsx ->	Testing dataset
@@ -28,9 +27,8 @@ The project uses separate training and testing datasets (data-train.xlsx and dat
 
 # Environment: Jupyter Notebook
 
-# Algorithm Used: Decision Tree Classifier
-
-# Accuracy Achieved: 99%
+Algorithm Used: Decision Tree Classifier
+Accuracy Achieved: 99%
 
 
 
